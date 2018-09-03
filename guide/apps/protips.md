@@ -1,6 +1,6 @@
 # PROT-TIPS 🥠 
 :::tip Detalle importante
-Dentro de todo los puntos que tienes que tener en cuenta, mencionamos herramientas en específico, te compartimos los enlaces donde puedes encontrar cada una de ellas y sus credenciales y así poder realizar tu proyecto de la mejor manera.
+En los puntos que tienes que tomar en cuenta, mencionamos herramientas en específico, te compartimos los enlaces donde puedes encontrar cada una de ellas y sus credenciales y así poder realizar tu proyecto de la mejor manera.
 :::
 
 - [Marvelapp](http://marvelapp.com)
