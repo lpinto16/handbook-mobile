@@ -4,18 +4,13 @@ En los puntos que tienes que tomar en cuenta, mencionamos herramientas en espec�
 :::
 
 - [Marvelapp](http://marvelapp.com)
-  - user: social@elaniin.com
-  - pass: inspirar1992!
-
+ 
 - [Avocode](https://avocode.com/download) 
   <br><span class="text-grey italic">(te recomendamos descargar la  versión de escritorio que encontraras en el enlace)</span>
-  - user: social@elaniin.com
-  - pass: inspirar1992!
-
+  
 - [Shutterstock](http://shutterstock.com)
-  - user: elaniin
-  - pass: social6883!*
-
+  
+  
 - **Compresores de imágenes**
   <br><span class="text-grey italic">(sitio para comprimir las imagenes usadas en el diseño, tanto .png como .jpg)</span>
   - [Tinypng](http://tinypng.com) 
