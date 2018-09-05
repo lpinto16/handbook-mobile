@@ -35,8 +35,7 @@ Es importante brindarte todo lo que necesites, por eso te compartimos las herram
 
 > Para la creación de nuestras interfaces usamos los principales softwares en el mercado **Sketch App** y **Adobe XD** Eres libre de escoger cual de los dos te gusta más para diseñar, cabe destacar que *Adobe XD* se encuentra tanto para sistema windows como para sistema *OS X*, caso contrario Sketch que solo esta disponible para *OS X*.
 <a href="https://sketchapp.com/">![sketch](https://i.imgur.com/eangtLe.gif)
-</a>
-<a href="https://www.adobe.com/la/products/xd.html">![Adobexd](https://cdn.dribbble.com/users/5068/screenshots/4466567/ezgif.com-optimize__6_.gif)</a>
+</a><a href="https://www.adobe.com/la/products/xd.html">![Adobexd](https://cdn.dribbble.com/users/5068/screenshots/4466567/ezgif.com-optimize__6_.gif)</a>
 
 ## Prototipado 
 
